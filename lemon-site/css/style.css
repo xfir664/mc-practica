@@ -392,6 +392,7 @@ body {
 }
 
 .copyright-link {
-  color: #bfe03e;
   text-decoration: none;
+  color: #bfe03e;
+  font-size: 13px;
 }
